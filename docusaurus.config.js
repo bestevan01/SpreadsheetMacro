@@ -3,7 +3,7 @@ themeConfig: {
     title: 'SpreadsheetMacro',
     logo: {
       alt: 'SpreadsheetMacro Logo',
-      src: 'img/logo.png',
+      src: 'static/img/logo.png',
     },
     items: [
       { to: '/', label: '홈', position: 'left' },
