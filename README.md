@@ -1,6 +1,12 @@
 # SpreadsheetMacro
 Spreadsheet Macro for Google Sheets (Apps Script)
 
+## 📌 주요 기능
+SpreadsheetMacro는 Google Apps Script 기반 매크로 도구로,  
+매달 반복되는 Google 스프레드시트 양식 생성을 자동화하고  
+사용자 권한 관리, 시트 보호, 날짜 필터링 등을 손쉽게 수행할 수 있습니다.
+
+
 ### 시트 제작 및 사용 방법
 
 - **본 문의 "시트 공유 리스트" 노란칸에 시트를 사용할 사람들의 이름과 이메일 주소를 수집 및 저장할 것**
