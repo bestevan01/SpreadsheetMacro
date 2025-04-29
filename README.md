@@ -8,3 +8,6 @@ Spreadsheet Macro for Google Sheets (Apps Script)
 - ***Ctrl + A, C, V만 할 줄 알면 할 수 있는 겁니다. 못 하겠다면 시트 제작자 탓 전에 자기 자신을 돌아보세요.***
 - **** 본 문서 '공휴일 필터' 시트에 월, 화, 수, 목 중 공휴일 및 학교 휴업일로 인해 카페 운영을 하지 않는 날을 미리 지정해주세요.****
 - ***** 작동 및 참고영상 - [유튜브](https://youtu.be/YfI5-G9Svlc)*****
+
+- [개인정보 처리방침](./privacy-policy.md)
+- [서비스 이용 약관](./terms-of-service.md)
