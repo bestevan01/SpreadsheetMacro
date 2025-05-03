@@ -26,8 +26,7 @@ This app (SpreadsheetMacro) is a Google Apps Script-based automation tool for Go
 
 ---
 
-## 3. 민감한 정보 보호 및 보안 조치  
-## Protection of Sensitive Information & Security Measures
+## 3. 민감한 정보 보호 및 보안 조치 | Protection of Sensitive Information & Security Measures
 
 - 본 앱은 수집한 이메일 등 민감한 정보를 자체 서버에 저장하지 않습니다.  
   This app **does not store any sensitive data**, including email addresses, on external servers.
